@@ -4,7 +4,9 @@ title: Autodiagnóstico de marketing para pymes
 colors: colors-a
 date: '2025-08-06'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Descubre en donde estas parado comparado con tu industria en el panorama
+  digital.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
