@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: TextSection
     title: MARKETING PARA PYMES
-    subtitle: The section subtitle
+    subtitle: impacto
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
