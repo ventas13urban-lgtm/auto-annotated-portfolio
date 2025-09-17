@@ -125,7 +125,7 @@ sections:
           - pl-4
           - pr-4
         flexDirection: row-reverse
-        textAlign: left
+        textAlign: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
