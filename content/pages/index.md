@@ -15,7 +15,9 @@ sections:
     subtitle: impacto
     text: |
       Somos una agencia de marketing y diseño con una misión principal.
-      Que tu negocio venda más.
+      Que tu negocio venda más, Sin rodeos ni complicaciones. 
+
+      Resultados reales.
     colors: colors-a
     variant: variant-a
     elementId: ''
