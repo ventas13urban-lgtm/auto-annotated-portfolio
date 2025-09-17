@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "impacto",
+        "title": "",
         "isTitleVisible": true,
         "primaryLinks": [
             {
