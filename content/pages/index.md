@@ -84,7 +84,9 @@ sections:
         textAlign: left
   - type: ContactSection
     title: Agenda una asesoría
-    text: Join my newsletter to stay up-to-date
+    text: >
+      en 45 minutos podemos escuchar tu situación y orientarte hacia una
+      estrategia digital para que vendas más por internet
     form:
       type: FormBlock
       title: Title of the form
