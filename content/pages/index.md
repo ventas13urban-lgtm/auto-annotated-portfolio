@@ -40,16 +40,7 @@ sections:
     subtitle: >-
       Necesitas definir tu estrategia digital y empezar a vender más por
       internet.
-    actions:
-      - type: Button
-        label: Agenda Asesoría
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: >-
