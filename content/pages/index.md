@@ -14,7 +14,7 @@ sections:
     title: MARKETING PARA PYMES
     subtitle: impacto
     text: |
-      Agencia de marketing y diseño con una misión principal. 
+      Somos una agencia de marketing y diseño con una misión principal.
       Que tu negocio venda más.
     colors: colors-a
     variant: variant-b
