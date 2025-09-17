@@ -96,7 +96,7 @@ sections:
           label: Name
           hideLabel: false
           placeholder: Your email
-          width: full
+          width: 1/2
           isRequired: 'true'
       submitLabel: Sign Up
       elementId: contact-form
