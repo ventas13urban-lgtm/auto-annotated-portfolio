@@ -15,10 +15,8 @@ sections:
     backgroundSize: full
     title: 'Tenemos una sola misión:'
     subtitle: >-
-      Que tu negocio venda más. Sin teorías, Sin rodeos, Sin complicaciones.
-      Resultados reales. Sistemas de impacto.Que tu negocio venda más. Sin
-      teorías, Sin rodeos, Sin complicaciones. Resultados reales. Sistemas de
-      impacto.
+      Que tu negocio venda más.Sin teorías, Sin rodeos, Sin complicaciones.
+      Resultados reales. Sistemas de impacto.Que tu negocio venda más.
     styles:
       self:
         height: auto
