@@ -3,7 +3,7 @@ type: ProjectLayout
 title: A very cool code project
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: Raices de Encuentro
 description: 'Proyecto de branding y desarrollo  de sistema de ventas digitales. '
 featuredImage:
   type: ImageBlock
