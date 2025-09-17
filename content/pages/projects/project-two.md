@@ -10,7 +10,9 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/periodico.jpg
+  url: >-
+    /images/20250906_2339_Brutalist Aluminum
+    Sculpture_simple_compose_01k4haxvqjft29c3d0bk20eyvs.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
