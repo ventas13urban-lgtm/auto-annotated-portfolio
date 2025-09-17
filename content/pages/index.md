@@ -24,7 +24,7 @@ sections:
       caption: Caption of the image
       elementId: ''
     colors: colors-c
-    backgroundSize: full
+    backgroundSize: inset
     elementId: ''
     styles:
       self:
