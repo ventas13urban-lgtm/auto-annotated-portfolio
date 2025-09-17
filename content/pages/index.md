@@ -35,7 +35,10 @@ sections:
         flexDirection: row
         textAlign: left
     text: |
-      Que tu negocio venda más, Sin rodeos ni complicaciones.Resultados reales.
+      Que tu negocio venda más, Sin rodeos ni complicaciones.
+
+
+      Resultados reales.
   - type: TextSection
     title: MARKETING PARA PYMES
     subtitle: impacto
