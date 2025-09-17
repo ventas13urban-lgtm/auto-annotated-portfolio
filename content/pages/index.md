@@ -36,27 +36,6 @@ sections:
         textAlign: left
     text: |
       Que tu negocio venda más, Sin rodeos ni complicaciones.
-  - type: TextSection
-    title: MARKETING PARA PYMES
-    subtitle: impacto
-    text: |
-      Somos una agencia de marketing y diseño con una misión principal.
-      Que tu negocio venda más, Sin rodeos ni complicaciones. 
-
-      Resultados reales.
-    colors: colors-a
-    variant: variant-a
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-11
-          - pl-4
-          - pr-4
-        textAlign: left
   - elementId: ''
     colors: colors-f
     backgroundSize: full
