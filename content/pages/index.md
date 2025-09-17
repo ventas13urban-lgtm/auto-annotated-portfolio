@@ -83,7 +83,7 @@ sections:
         flexDirection: row-reverse
         textAlign: left
   - type: ContactSection
-    title: Subscribe
+    title: Agenda una asesoría
     text: Join my newsletter to stay up-to-date
     form:
       type: FormBlock
