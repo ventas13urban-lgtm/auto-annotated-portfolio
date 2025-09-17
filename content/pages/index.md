@@ -36,31 +36,6 @@ sections:
         textAlign: left
     text: |
       Que tu negocio venda más, Sin rodeos ni complicaciones.
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: 'Tenemos una sola misión:'
-    subtitle: >-
-      Que tu negocio venda más. Sin teorías, Sin rodeos ni complicaciones.
-      Resultados reales. 
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row-reverse
-        textAlign: left
-    type: HeroSection
-    actions: []
   - type: HeroSection
     title: Es momento...
     subtitle: >-
