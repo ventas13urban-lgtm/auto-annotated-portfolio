@@ -29,7 +29,7 @@ sections:
         width: narrow
         padding:
           - pt-36
-          - pb-48
+          - pb-11
           - pl-4
           - pr-4
         flexDirection: row
