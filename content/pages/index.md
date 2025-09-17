@@ -95,7 +95,7 @@ sections:
           name: email
           label: Name
           hideLabel: false
-          placeholder: Tu correo
+          placeholder: Tu Correa
           width: 1/2
           isRequired: 'true'
       submitLabel: Sign Up
