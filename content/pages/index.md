@@ -38,8 +38,8 @@ sections:
   - type: HeroSection
     title: Es momento...
     subtitle: >-
-      Necesitas una estrategia digital. Quieres más clientes,sin esfuerzo
-      extra,sin subir contenido todos los días.Necesitas un sistema de ventas.
+      Necesitas una estrategia digital.    Quieres más clientes.Necesitas un
+      sistema de ventas.
     actions:
       - type: Button
         label: Agenda Asesoría
