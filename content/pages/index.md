@@ -157,7 +157,7 @@ sections:
       extra,sin subir contenido todos los días.Necesitas un sistema de ventas.
     actions:
       - type: Button
-        label: Hire me
+        label: Agenda Asesoría
         altText: ''
         url: /
         showIcon: true
