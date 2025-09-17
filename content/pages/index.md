@@ -13,13 +13,9 @@ sections:
   - type: TextSection
     title: MARKETING PARA PYMES
     subtitle: impacto
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |
+      Agencia de marketing y diseño con una misión principal. 
+      Que tu negocio venda más.
     colors: colors-a
     variant: variant-b
     elementId: ''
