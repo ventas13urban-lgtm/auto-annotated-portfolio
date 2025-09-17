@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: 'Tenemos una sola misión:'
     subtitle: >-
-      Que tu negocio venda más. Sin teorías, Sin rodeos, Sin complicaciones.
+      Que tu negocio venda más. Sin teorías, Sin rodeos ni complicaciones.
       Resultados reales. 
     styles:
       self:
