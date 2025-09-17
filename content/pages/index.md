@@ -16,7 +16,7 @@ sections:
     title: 'Tenemos una sola misión:'
     subtitle: >-
       Que tu negocio venda más.Sin teorías, Sin rodeos, Sin complicaciones.
-      Resultados reales. Sistemas de impacto.Que tu negocio venda más.
+      Resultados reales. 
     styles:
       self:
         height: auto
