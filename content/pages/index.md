@@ -89,6 +89,43 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+  - type: HeroSection
+    title: Es momento...
+    subtitle: >-
+      Necesitas una estrategia digital. Quieres más clientes,sin esfuerzo
+      extra,sin subir contenido todos los días.Necesitas un sistema de ventas.
+    actions:
+      - type: Button
+        label: Agenda Asesoría
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: >-
+        /images/20250824_1801_Elegant Retro
+        Communication_simple_compose_01k3f8b74jem19gcspe2qvgf28.png
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-a
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        flexDirection: row-reverse
+        textAlign: left
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -149,42 +186,5 @@ sections:
           - pr-4
           - pl-4
         flexDirection: row
-        textAlign: left
-  - type: HeroSection
-    title: Es momento...
-    subtitle: >-
-      Necesitas una estrategia digital. Quieres más clientes,sin esfuerzo
-      extra,sin subir contenido todos los días.Necesitas un sistema de ventas.
-    actions:
-      - type: Button
-        label: Agenda Asesoría
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: >-
-        /images/20250824_1801_Elegant Retro
-        Communication_simple_compose_01k3f8b74jem19gcspe2qvgf28.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-a
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row-reverse
         textAlign: left
 ---
