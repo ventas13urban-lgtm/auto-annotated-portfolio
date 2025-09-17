@@ -27,7 +27,7 @@ sections:
         width: wide
         padding:
           - pt-8
-          - pb-28
+          - pb-11
           - pl-4
           - pr-4
         textAlign: left
