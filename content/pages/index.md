@@ -17,7 +17,7 @@ sections:
       Somos una agencia de marketing y diseño con una misión principal.
       Que tu negocio venda más.
     colors: colors-a
-    variant: variant-b
+    variant: variant-a
     elementId: ''
     styles:
       self:
