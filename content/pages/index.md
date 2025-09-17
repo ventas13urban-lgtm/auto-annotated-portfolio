@@ -89,7 +89,7 @@ sections:
       estrategia digital para que vendas más por internet
     form:
       type: FormBlock
-      title: Title of the form
+      title: Asesoría 1 a 1
       fields:
         - type: EmailFormControl
           name: email
