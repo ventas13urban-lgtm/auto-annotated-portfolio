@@ -36,8 +36,9 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
-    text: |
-      Que tu negocio venda más, Sin rodeos ni complicaciones.
+    text: >
+      Somos una agencia de marketing y diseño con una misión: Que tu negocio
+      venda más, Sin rodeos ni complicaciones.
   - type: HeroSection
     title: Es momento...
     subtitle: >-
