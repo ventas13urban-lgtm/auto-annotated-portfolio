@@ -12,7 +12,9 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: Marketing digital para Pymes
-    subtitle: 'Somos una agencia de marketing y diseño con una misión principal. '
+    subtitle: >-
+      Somos una agencia de marketing y diseño con una misión: Que tu negocio
+      venda más, Sin rodeos ni complicaciones.
     actions: []
     media:
       type: ImageBlock
