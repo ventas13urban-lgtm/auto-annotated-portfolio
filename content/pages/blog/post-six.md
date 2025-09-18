@@ -9,7 +9,7 @@ excerpt: >-
   digital.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/dd7a2f993f2d0b8ac7874075fbe47e1e.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''

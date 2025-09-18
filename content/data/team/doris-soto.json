@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "Carlos",
+    "lastName": "Baeza",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
+        "url": "/images/IMG_0313.JPG",
+        "altText": "carlos baeza foto"
     }
 }
