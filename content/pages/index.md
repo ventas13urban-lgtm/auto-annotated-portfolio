@@ -99,9 +99,9 @@ sections:
         textAlign: left
   - type: CtaSection
     title: Agenda una asesoría
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      En menos de 45 minutos podemos escuchar tu situación y orientarte hacia
+      una estrategia digital para que vendas más por internet
     actions:
       - type: Button
         label: AGENDA SIN COSTO
