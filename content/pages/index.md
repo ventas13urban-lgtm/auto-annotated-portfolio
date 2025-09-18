@@ -62,41 +62,6 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: left
-  - type: ContactSection
-    title: Agenda una asesoría
-    text: >
-      en 45 minutos podemos escuchar tu situación y orientarte hacia una
-      estrategia digital para que vendas más por internet
-    form:
-      type: FormBlock
-      title: Asesoría 1 a 1
-      fields:
-        - type: EmailFormControl
-          name: email
-          label: Name
-          hideLabel: false
-          placeholder: Tu Correa
-          width: 1/2
-          isRequired: 'true'
-      submitLabel: Sign Up
-      elementId: contact-form
-      styles:
-        self:
-          textAlign: left
-    colors: colors-a
-    backgroundSize: inset
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        flexDirection: row
-        textAlign: left
   - type: CtaSection
     title: Agenda una asesoría
     text: >
