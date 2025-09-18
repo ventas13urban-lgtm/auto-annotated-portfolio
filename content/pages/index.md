@@ -110,7 +110,7 @@ sections:
         showIcon: true
         icon: chevronRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     colors: colors-c
     backgroundSize: full
