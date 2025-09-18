@@ -10,23 +10,52 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: 'Tenemos una sola misión:'
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+  - type: HeroSection
+    title: Marketing digital para Pymes
+    subtitle: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/SELLO BLANCO.png
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-a
+    backgroundSize: inset
+    elementId: ''
     styles:
       self:
         height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: narrow
+        padding:
+          - pt-6
+          - pb-11
+          - pl-4
+          - pr-4
+        flexDirection: row
+        textAlign: left
+    text: >
+      Somos una agencia de marketing y diseño con una misión: Que tu negocio
+      venda más, Sin rodeos ni complicaciones.
+  - type: HeroSection
+    title: Es momento...
+    subtitle: >-
+      Necesitas definir tu estrategia digital y empezar a vender más por
+      internet.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/9ur20eoaiwuoeuaowuç.png
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
         padding:
           - pt-36
           - pb-48
@@ -34,8 +63,35 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: left
-    type: HeroSection
-    actions: []
+  - type: CtaSection
+    title: Agenda una asesoría
+    text: >
+      En menos de 45 minutos podemos escuchar tu situación y orientarte hacia
+      una estrategia digital para que vendas más por internet
+    actions:
+      - type: Button
+        label: AGENDA SIN COSTO
+        altText: ''
+        url: /
+        showIcon: true
+        icon: chevronRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-a
+    backgroundSize: inset
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        flexDirection: col
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -67,7 +123,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: Artículos
     showFeaturedImage: false
     actions:
       - type: Link

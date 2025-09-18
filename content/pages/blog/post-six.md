@@ -1,11 +1,12 @@
 ---
 type: PostLayout
-title: How to Structure and Organize a Next.js Project 🗂️
+title: Autodiagnóstico de marketing para pymes
 colors: colors-a
-date: '2024-06-03'
+date: '2025-08-06'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  Descubre en donde estas parado comparado con tu industria en el panorama
+  digital.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
@@ -34,7 +35,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
