@@ -107,7 +107,7 @@ sections:
         label: AGENDA SIN COSTO
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
