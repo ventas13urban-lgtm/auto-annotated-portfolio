@@ -49,7 +49,7 @@ sections:
           width: 1/2
           isRequired: 'true'
         - type: TextareaFormControl
-          name: message
+          name: Información sobre tu negocio
           label: Cuentanos sobre tu proyecto/ empresa
           hideLabel: false
           placeholder: Cuentanos sobre tu proyecto/ empresa
