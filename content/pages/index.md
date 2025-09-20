@@ -97,7 +97,7 @@ sections:
     subtitle: Clientes
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/baeza.png
         altText: logo one
         caption: Caption of the image
         elementId: ''
