@@ -24,7 +24,9 @@ sections:
         textAlign: left
   - type: ContactSection
     title: Nos ponemos en contacto
-    text: I'm look forward to hearing from you.
+    text: >
+      Estamos interesados en pymes que quieran ejecutar una estrategia de
+      marketing digital.
     form:
       type: FormBlock
       title: Title of the form
