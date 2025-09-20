@@ -45,7 +45,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/9ur20eoaiwuoeuaowuç.png
+      url: /images/silla movimiento.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
