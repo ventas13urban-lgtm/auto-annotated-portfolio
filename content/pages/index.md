@@ -37,32 +37,6 @@ sections:
     text: >
       Somos una agencia de marketing y diseño con una misión: Que tu negocio
       venda más, Sin rodeos ni complicaciones.
-  - type: HeroSection
-    title: Es momento...
-    subtitle: >-
-      Necesitas definir tu estrategia digital y empezar a vender más por
-      internet.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/silla movimiento.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row-reverse
-        textAlign: left
   - type: CtaSection
     title: Agenda una asesoría
     text: >
@@ -92,6 +66,32 @@ sections:
           - pr-4
         flexDirection: col
         textAlign: center
+  - type: HeroSection
+    title: Es momento...
+    subtitle: >-
+      Necesitas definir tu estrategia digital y empezar a vender más por
+      internet.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/silla movimiento.jpg
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        flexDirection: row-reverse
+        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
