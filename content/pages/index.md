@@ -20,13 +20,13 @@ sections:
       altText: Hero image
       caption: Caption of the image
       elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundSize: inset
     elementId: ''
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
           - pt-6
           - pb-11
@@ -37,32 +37,6 @@ sections:
     text: >
       Somos una agencia de marketing y diseño con una misión: Que tu negocio
       venda más, Sin rodeos ni complicaciones.
-  - type: HeroSection
-    title: Es momento...
-    subtitle: >-
-      Necesitas definir tu estrategia digital y empezar a vender más por
-      internet.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/9ur20eoaiwuoeuaowuç.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row-reverse
-        textAlign: left
   - type: CtaSection
     title: Agenda una asesoría
     text: >
@@ -92,6 +66,78 @@ sections:
           - pr-4
         flexDirection: col
         textAlign: center
+  - type: HeroSection
+    title: Es momento...
+    subtitle: >-
+      Necesitas definir tu estrategia digital y empezar a vender más por
+      internet.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/efihuwiefhwuihefç.jpg
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-f
+    backgroundSize: inset
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-5
+          - pb-6
+          - pl-4
+          - pr-4
+        flexDirection: row-reverse
+        textAlign: left
+  - type: MediaGallerySection
+    title: ''
+    subtitle: Clientes
+    images:
+      - type: ImageBlock
+        url: /images/baeza.png
+        altText: logo one
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/RAíCES.png
+        altText: logo two
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Miic.png
+        altText: logo three
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/susana rubín.png
+        altText: logo five
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Grupo logo blanco.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+    colors: colors-a
+    spacing: 41
+    columns: 5
+    aspectRatio: auto
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -106,7 +152,6 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-three.md
-      - content/pages/projects/project-two.md
       - content/pages/projects/project-one.md
     styles:
       self:
@@ -123,7 +168,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Artículos
+    subtitle: BLOG
     showFeaturedImage: false
     actions:
       - type: Link
@@ -132,7 +177,6 @@ sections:
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true

@@ -10,11 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
                 "label": "Projects",
                 "url": "/projects"
             },
@@ -52,14 +47,8 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "label": "Contacto",
+                "url": "/contacto",
                 "altText": ""
             },
             {
@@ -67,12 +56,6 @@
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
