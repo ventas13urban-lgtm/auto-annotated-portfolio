@@ -32,7 +32,7 @@ sections:
           - pb-11
           - pl-4
           - pr-4
-        flexDirection: col
+        flexDirection: row
         textAlign: left
     text: >
       Somos una agencia de marketing y diseño con una misión: Que tu negocio
