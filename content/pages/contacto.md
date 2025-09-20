@@ -23,7 +23,7 @@ sections:
           - pr-4
         textAlign: left
   - type: ContactSection
-    title: Contact Me
+    title: Nos ponemos en contacto
     text: I'm look forward to hearing from you.
     form:
       type: FormBlock
