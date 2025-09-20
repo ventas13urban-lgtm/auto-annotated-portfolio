@@ -48,7 +48,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "/contacto",
                 "altText": ""
             },
             {
