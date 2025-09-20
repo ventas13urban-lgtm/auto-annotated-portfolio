@@ -117,7 +117,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/susana rubín.png
         altText: logo five
         caption: Caption of the image
         elementId: ''
