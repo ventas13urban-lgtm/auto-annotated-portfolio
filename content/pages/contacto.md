@@ -52,7 +52,7 @@ sections:
           name: Información sobre tu negocio
           label: Cuentanos sobre tu proyecto/ empresa
           hideLabel: false
-          placeholder: Cuentanos sobre tu proyecto/ empresa
+          placeholder: Tienda de antiguedades con 4 empleados...
           width: full
           isRequired: true
         - type: CheckboxFormControl
