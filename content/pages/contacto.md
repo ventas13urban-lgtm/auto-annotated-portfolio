@@ -27,6 +27,9 @@ sections:
     text: >
       Estamos interesados en pymes que quieran ejecutar una estrategia de
       marketing digital.
+
+
+      Deja tus datos y nos pondremos en contacto para agendar una llamada.
     form:
       type: FormBlock
       title: Title of the form
