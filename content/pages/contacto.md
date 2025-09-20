@@ -35,7 +35,7 @@ sections:
       title: Title of the form
       fields:
         - type: TextFormControl
-          name: name
+          name: Tu nombre
           label: Name
           hideLabel: false
           placeholder: Your name
