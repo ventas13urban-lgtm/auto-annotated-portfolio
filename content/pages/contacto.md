@@ -50,7 +50,7 @@ sections:
           isRequired: 'true'
         - type: TextareaFormControl
           name: message
-          label: Tell me about your project
+          label: Cuentanos sobre tu proyecto/ empresa
           hideLabel: true
           placeholder: Tell me about your project
           width: full
