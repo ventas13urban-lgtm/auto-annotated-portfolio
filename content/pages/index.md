@@ -87,7 +87,7 @@ sections:
         width: narrow
         padding:
           - pt-5
-          - pb-48
+          - pb-6
           - pl-4
           - pr-4
         flexDirection: row-reverse
