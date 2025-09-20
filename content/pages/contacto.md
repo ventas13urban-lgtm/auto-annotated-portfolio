@@ -52,7 +52,7 @@ sections:
           name: message
           label: Cuentanos sobre tu proyecto/ empresa
           hideLabel: false
-          placeholder: Tell me about your project
+          placeholder: Cuentanos sobre tu proyecto/ empresa
           width: full
           isRequired: true
         - type: CheckboxFormControl
