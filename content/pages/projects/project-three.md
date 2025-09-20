@@ -58,4 +58,3 @@ bottomSections:
           - pr-4
         textAlign: center
 ---
-L
