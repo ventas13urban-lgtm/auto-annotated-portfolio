@@ -7,9 +7,8 @@ sections:
     subtitle: >-
       Estamos interesados en pymes que quieran ejecutar una estrategia de
       marketing digital.
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      Deja tus datos y nos pondremos en contacto para agendar una llamada.
     colors: colors-f
     variant: variant-a
     elementId: ''
