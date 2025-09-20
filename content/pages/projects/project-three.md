@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/logo.jpg
+  url: /images/logo tequis.jpg
   altText: Project image
 bottomSections:
   - type: MediaGallerySection
