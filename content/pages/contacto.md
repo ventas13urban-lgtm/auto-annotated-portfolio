@@ -45,7 +45,7 @@ sections:
           name: email
           label: Correo
           hideLabel: false
-          placeholder: Your email
+          placeholder: Tu Correo
           width: 1/2
           isRequired: 'true'
         - type: TextareaFormControl
