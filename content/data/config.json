@@ -47,7 +47,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Contacto",
                 "url": "/contacto",
                 "altText": ""
             },
