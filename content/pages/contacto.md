@@ -47,7 +47,9 @@ sections:
           textAlign: left
     media:
       type: ImageBlock
-      url: /images/contact.jpg
+      url: >-
+        /images/20250824_1801_Elegant Retro
+        Communication_simple_compose_01k3f8b74jem19gcspe2qvgf28.png
       altText: Contact form image
       caption: Caption of the image
       elementId: ''
