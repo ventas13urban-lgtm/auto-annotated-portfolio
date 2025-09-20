@@ -173,7 +173,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Artículos
+    subtitle: BLOG
     showFeaturedImage: false
     actions:
       - type: Link
