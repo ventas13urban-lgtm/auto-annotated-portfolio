@@ -107,7 +107,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/Miic.png
         altText: logo three
         caption: Caption of the image
         elementId: ''
