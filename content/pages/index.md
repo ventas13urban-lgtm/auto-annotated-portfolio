@@ -112,7 +112,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/groel.png
         altText: logo four
         caption: Caption of the image
         elementId: ''
