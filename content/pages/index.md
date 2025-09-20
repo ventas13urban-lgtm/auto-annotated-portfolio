@@ -112,11 +112,6 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/groel.png
-        altText: logo four
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
         url: /images/susana rubín.png
         altText: logo five
         caption: Caption of the image
