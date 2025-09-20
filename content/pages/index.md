@@ -94,7 +94,7 @@ sections:
         textAlign: left
   - type: MediaGallerySection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: Clientes
     images:
       - type: ImageBlock
         url: /images/logo1.svg
