@@ -3,7 +3,7 @@ type: PageLayout
 title: contacto
 sections:
   - type: TextSection
-    title: This in an empty page
+    title: Nos ponemos en contacto
     subtitle: The section subtitle
     text: >-
       Start adding sections by clicking the + button on the page or through the
