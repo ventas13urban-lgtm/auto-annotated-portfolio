@@ -4,7 +4,9 @@ title: contacto
 sections:
   - type: TextSection
     title: Nos ponemos en contacto
-    subtitle: The section subtitle
+    subtitle: >-
+      Estamos interesados en pymes que quieran ejecutar una estrategia de
+      marketing digital.
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
